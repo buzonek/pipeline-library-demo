@@ -9,3 +9,7 @@ class SampleClass {
       this.age += years
    }
 }
+
+def sayHello(String name) {
+   println name + " test"
+}
